@@ -9,7 +9,7 @@ sleep and have good dream(s).
 3. You open a terminal and compile + run Java class.
 4. You go to sleep and have nice dreams.
 5. On morning, your friend gets crazy seeing hundreds of messages😂
-
+![Setup](whatsapp-not-working.png)
 ![Working](whatsapp-working.png)
 ### You got excited??
 
