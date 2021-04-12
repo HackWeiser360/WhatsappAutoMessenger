@@ -1,4 +1,15 @@
 # WhatsappAutoMessenger
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-1.5-green?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/HackWeiser360/WhatsappAutoMessenger?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/HackWeiser360/WhatsappAutoMessenger?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/HackWeiser360/WhatsappAutoMessenger?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/HackWeiser360/WhatsappAutoMessenger?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Author-HackWeiser360-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/MADE%20IN-Kenya✌-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+  <img src="https://img.shields.io/badge/Written%20In-Java&JavaScript-cyan?style=flat-square">
+</p>
 This tool is for pranking your friends😂. It will send messages to your friend on WhatsApp Web automatically at fixed interval (e.g. after every 5mins) while you
 sleep and have good dream(s).
 
@@ -40,3 +51,5 @@ for this purpose and this was my 2nd working approach. See Video to feel it.
 
 You can make a chatbot which will be able to respond to incoming messages wisely.
 
+### Stargazers
+[![Stargazers repo roster for @HackWeiser360/WhatsappAutoMessenger](https://reporoster.com/stars/HackWeiser360/WhatsappAutoMessenger)](https://github.com/HackWeiser360/WhatsappAutoMessenger)
